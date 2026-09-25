@@ -3,7 +3,7 @@ import { customerIssues, customers, findCustomer } from '../data/customers';
 import { buildXml, formatOrderDate } from '../lib/buildXml';
 import { downloadText } from '../lib/download';
 import { parseExcel, toLines, type ParseResult } from '../lib/parseExcel';
-import { buildShipmentId } from '../lib/shipmentId';
+import { buildFileNameShipmentId } from '../lib/shipmentId';
 import { shipmentNumbers } from '../lib/services';
 
 export interface Generated {
@@ -58,10 +58,10 @@ export function useShipmentGenerator() {
       // El número se pide solo aquí, al generar (no en la vista previa)
       const num = await shipmentNumbers.next(customer.id);
       const xml = buildXml(customer, lines, { num, orderDate: formatOrderDate() });
-      const shipmentId = buildShipmentId(customer.storeNo, num);
-      const filename = `${shipmentId}.xml`;
+      const fileNmeShipmentId = buildFileNameShipmentId(customer.storeNo, num);
+      const filename = fileNmeShipmentId;
       downloadText(filename, xml);
-      setGenerated({ customer: customer.code, shipmentId, filename, xml, lineCount: lines.length });
+      setGenerated({ customer: customer.code, shipmentId: fileNmeShipmentId, filename, xml, lineCount: lines.length });
     } catch {
       setError('No se pudo generar el XML. Si aparece un número de pedido usado, anótalo antes de reintentar.');
     } finally {
