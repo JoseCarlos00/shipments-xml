@@ -57,7 +57,7 @@ export async function parseExcel(file: Blob): Promise<ParseResult> {
     const qtyText = String(rawQty ?? '').trim();
     if (!item && !qtyText) continue; // fila vacía
 
-    const row: ParsedRow = { row: firstRow + i + 1, sku: item, cantidad: null };
+    const row: ParsedRow = { row: firstRow + i, sku: item, cantidad: null };
 
     if (!item) row.error = 'Falta el SKU.';
     else if (!qtyText) row.error = 'Falta la cantidad.';
