@@ -4,7 +4,7 @@ import { buildXml, formatOrderDate } from '../lib/buildXml';
 import { downloadText } from '../lib/download';
 import { parseExcel, toLines, type ParseResult } from '../lib/parseExcel';
 import { buildFileNameShipmentId } from '../lib/shipmentId';
-import { shipmentNumbers } from '../lib/services';
+import { supabaseShipmentNumbers } from '../lib/shipmentNumber.supabase'
 
 export interface Generated {
   customer: string;
@@ -56,7 +56,7 @@ export function useShipmentGenerator() {
     setError('');
     try {
       // El número se pide solo aquí, al generar (no en la vista previa)
-      const num = await shipmentNumbers.next(customer.id);
+      const num = await supabaseShipmentNumbers.next(customer.id);
       const xml = buildXml(customer, lines, { num, orderDate: formatOrderDate() });
       const fileNmeShipmentId = buildFileNameShipmentId(customer.storeNo, num);
       const filename = fileNmeShipmentId;
