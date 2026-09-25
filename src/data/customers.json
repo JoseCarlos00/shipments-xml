@@ -1,0 +1,754 @@
+[
+  {
+    "id": "store-4342",
+    "storeNo": "4342",
+    "code": "Ags-Aguascalientes",
+    "orderType": "TDFOR",
+    "category2": "STG AGS",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Francisco I. Madero 303",
+      "address2": "Zona Centro",
+      "address3": "Aguascalientes",
+      "city": "Aguascalientes",
+      "state": "AGS",
+      "postalCode": "20000"
+    }
+  },
+  {
+    "id": "store-4559",
+    "storeNo": "4559",
+    "code": "BCN-Carrousel",
+    "orderType": "TDFOR",
+    "category2": "STG CARROUSEL",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Blvd. Diaz Ordaz 68835",
+      "address2": "Veracruz",
+      "address3": "Tijuana",
+      "city": "Baja California",
+      "state": "BCN",
+      "postalCode": "22117"
+    }
+  },
+  {
+    "id": "store-4797",
+    "storeNo": "4797",
+    "code": "BCN-Mexicali",
+    "orderType": "TDFOR",
+    "category2": "STG MEXICALI",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. Paseo de los Cachanilla 181",
+      "address2": "Cachanilla",
+      "address3": "Mexicali",
+      "city": "Baja California",
+      "state": "BCN",
+      "postalCode": "21150"
+    }
+  },
+  {
+    "id": "store-4757",
+    "storeNo": "4757",
+    "code": "BCN-Tijuana",
+    "orderType": "TDFOR",
+    "category2": "STG TIJUANA",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Av. Felipe Carrillo Puerto No. 7981",
+      "address2": "Zona Centro",
+      "address3": "Tijuana",
+      "city": "Baja California",
+      "state": "BCN",
+      "postalCode": "22000"
+    }
+  },
+  {
+    "id": "store-9956",
+    "storeNo": "9956",
+    "code": "Chi-Cd Juarez",
+    "orderType": "TDFOR",
+    "category2": "STG CDJUAREZ",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Ejercito Nacional Mexicano 2701  Local 3",
+      "address2": "El Márquez",
+      "address3": "CD. Juárez",
+      "city": "Chihuahua",
+      "state": "CHH",
+      "postalCode": "32607"
+    }
+  },
+  {
+    "id": "store-9954",
+    "storeNo": "9954",
+    "code": "Chi-Chihuahua",
+    "orderType": "TDFOR",
+    "category2": "STG CHIHUAHUA",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. Periferico de la Juventud 6110",
+      "address2": "Haciendas del Valle",
+      "address3": "Chihuahua",
+      "city": "Chihuahua",
+      "state": "CHH",
+      "postalCode": "31217"
+    }
+  },
+  {
+    "id": "store-4799",
+    "storeNo": "4799",
+    "code": "Coa-Saltillo",
+    "orderType": "TDFOR",
+    "category2": "STG SALTILLO",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Guadalupe Victoria No.320",
+      "address2": "Zona Centro",
+      "address3": "Saltillo",
+      "city": "Saltillo",
+      "state": "COA",
+      "postalCode": "25000"
+    }
+  },
+  {
+    "id": "store-4753",
+    "storeNo": "4753",
+    "code": "Coa-Torreon",
+    "orderType": "TDFOR",
+    "category2": "STG TORREON",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Calle Falcon 376",
+      "address2": "Centro",
+      "address3": "Torreon",
+      "city": "Coahuila",
+      "state": "COA",
+      "postalCode": "27000"
+    }
+  },
+  {
+    "id": "store-4756",
+    "storeNo": "4756",
+    "code": "Dur-Centro",
+    "orderType": "TDFOR",
+    "category2": "STG DURANGO",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Calle 5 de Febrero 110 Poniente",
+      "address2": "Victoria de Durango Centro",
+      "address3": "Durango",
+      "city": "Durango",
+      "state": "DUR",
+      "postalCode": "34000"
+    }
+  },
+  {
+    "id": "store-3400",
+    "storeNo": "3400",
+    "code": "Gto-Leon",
+    "orderType": "TDFOR",
+    "category2": "STG GUANAJUATO",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Calle Portal Bravo 2",
+      "address2": "Centro Comercial Plaza Leon",
+      "address3": "Leon",
+      "city": "Guanajuato",
+      "state": "GUA",
+      "postalCode": "37000"
+    }
+  },
+  {
+    "id": "store-359",
+    "storeNo": "359",
+    "code": "Jal-Gdl Centro",
+    "orderType": "TDFOR",
+    "category2": "STG CENTRO JAL",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Hidalgo 520",
+      "address2": "Guadalajara Centro",
+      "address3": "Guadalajara",
+      "city": "Jalisco",
+      "state": "JAL",
+      "postalCode": "44100"
+    }
+  },
+  {
+    "id": "store-4348",
+    "storeNo": "4348",
+    "code": "Jal-Gdl Palomar",
+    "orderType": "TDFOR",
+    "category2": "STG PALOMAR",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Prolongacion Lopez Mateos Sur 1399",
+      "address2": "La Tijera",
+      "address3": "Tlajomulco de Zuñiga",
+      "city": "Jalisco",
+      "state": "JAL",
+      "postalCode": "45645"
+    }
+  },
+  {
+    "id": "store-4345",
+    "storeNo": "4345",
+    "code": "Jal-Gdl Patria",
+    "orderType": "TDFOR",
+    "category2": "STG PATRIA",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Calle Labna 1437 SA026",
+      "address2": "Jardines del Sol",
+      "address3": "Zapopan",
+      "city": "Jalisco",
+      "state": "JAL",
+      "postalCode": "45050"
+    }
+  },
+  {
+    "id": "store-354",
+    "storeNo": "354",
+    "code": "Jal-Gdl Zapopan",
+    "orderType": "TDFOR",
+    "category2": "STG ZAPOPAN",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Mariano Otero 3396",
+      "address2": "Rinconada del Sol",
+      "address3": "Zapopan",
+      "city": "Jalisco",
+      "state": "JAL",
+      "postalCode": "45055"
+    }
+  },
+  {
+    "id": "store-418",
+    "storeNo": "418",
+    "code": "Mex-Chica",
+    "orderType": "TDMX",
+    "category2": "STG CENTRO CHICA",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Calle Uruguay 119 Bis",
+      "address2": "Centro Area 6",
+      "address3": "Cuauhtemoc",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "06060"
+    }
+  },
+  {
+    "id": "store-361",
+    "storeNo": "361",
+    "code": "Mex-Coacalco",
+    "orderType": "TDMX",
+    "category2": "STG COACALCO",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Via Jose Lopez Portillo 49",
+      "address2": "San Francisco, Coacalco",
+      "address3": "Coacalco",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "55700"
+    }
+  },
+  {
+    "id": "store-352",
+    "storeNo": "352",
+    "code": "Mex-Coapa",
+    "orderType": "TDMX",
+    "category2": "STG VILLA COAPA",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. Canal de Miramontes 2053 PB Local 2",
+      "address2": "Los Girasoles 3",
+      "address3": "Coyoacan",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "04920"
+    }
+  },
+  {
+    "id": "store-3401",
+    "storeNo": "3401",
+    "code": "Mex-Coyoacan",
+    "orderType": "TDMX",
+    "category2": "STG COYOACAN",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. Miguel Angel de Quevedo 513",
+      "address2": "Romero de Terreros",
+      "address3": "Coyoacan",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "04310"
+    }
+  },
+  {
+    "id": "store-417",
+    "storeNo": "417",
+    "code": "Mex-Grande",
+    "orderType": "TDMX",
+    "category2": "STG CENTRO GRANDE",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Calle Uruguay 119",
+      "address2": "Centro Area 6",
+      "address3": "Cuauhtemoc",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "06060"
+    }
+  },
+  {
+    "id": "store-415",
+    "storeNo": "415",
+    "code": "Mex-Interlomas",
+    "orderType": "TDMX",
+    "category2": "STG INTERLOMAS",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Av. Vialidad de la Barranca 4 Int 101",
+      "address2": "Resid. Club de Golf",
+      "address3": "Huixquilucan",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "52787"
+    }
+  },
+  {
+    "id": "store-350",
+    "storeNo": "350",
+    "code": "Mex-Lomas",
+    "orderType": "TDMX",
+    "category2": "STG LOMAS",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Prado Norte 310",
+      "address2": "Lomas de Chapultepec I seccion",
+      "address3": "Miguel Hidalgo",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "11000"
+    }
+  },
+  {
+    "id": "store-357",
+    "storeNo": "357",
+    "code": "Mex-Mayoreo",
+    "orderType": "TDMX",
+    "category2": "STG CTRO BODEGA",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Uruguay #119",
+      "address2": "Centro",
+      "address3": "Cuauhtemoc",
+      "city": "Mexico",
+      "state": "CDMX",
+      "postalCode": "06060"
+    }
+  },
+  {
+    "id": "store-1171",
+    "storeNo": "1171",
+    "code": "Mex-Mylin",
+    "orderType": "TDMX",
+    "category2": "STG CENTRO MYLIN2",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Calle Uruguay 125-C y 127",
+      "address2": "Centro Area 6",
+      "address3": "Cuauhtemoc",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "06060"
+    }
+  },
+  {
+    "id": "store-3404",
+    "storeNo": "3404",
+    "code": "Mex-Pedregal",
+    "orderType": "TDMX",
+    "category2": "STG PEDREGAL",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. San Jeronimo 398",
+      "address2": "Jardines del Pedregal",
+      "address3": "Alvaro Obregon",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "01900"
+    }
+  },
+  {
+    "id": "store-356",
+    "storeNo": "356",
+    "code": "Mex-Polanco",
+    "orderType": "TDMX",
+    "category2": "STG POLANCO",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. Gral. Mariano Escobedo 151",
+      "address2": "Anahuac II seccion",
+      "address3": "Miguel Hidalgo",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "11320"
+    }
+  },
+  {
+    "id": "store-363",
+    "storeNo": "363",
+    "code": "Mex-SantaFe",
+    "orderType": "TDMX",
+    "category2": "STG SANTA FE",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Av. Juan Salvador Agraz 15",
+      "address2": "Santa Fe Cuajimalpa",
+      "address3": "Cuajimalpa de Morelos",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "05348"
+    }
+  },
+  {
+    "id": "store-351",
+    "storeNo": "351",
+    "code": "Mex-Satelite",
+    "orderType": "TDMX",
+    "category2": "STG SATELITE",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Cto. Cirujanos 5",
+      "address2": "Fracc. Ciudad Satelite",
+      "address3": "Naucalpan",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "53100"
+    }
+  },
+  {
+    "id": "store-353",
+    "storeNo": "353",
+    "code": "Mex-Tlalne",
+    "orderType": "TDMX",
+    "category2": "STG TLALNEPANTLA",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. Gustavo Baz 3836",
+      "address2": "Industrial San Nicolas",
+      "address3": "Tlalnepantla de Baz",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "54130"
+    }
+  },
+  {
+    "id": "store-360",
+    "storeNo": "360",
+    "code": "Mex-Valle",
+    "orderType": "TDMX",
+    "category2": "STG DEL VALLE",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Av. Felix Cuevas 112",
+      "address2": "Del Valle Centro",
+      "address3": "Benito Juarez",
+      "city": "CDMX",
+      "state": "CDMX",
+      "postalCode": "03100"
+    }
+  },
+  {
+    "id": "store-355",
+    "storeNo": "355",
+    "code": "Mty-Centro",
+    "orderType": "TDFOR",
+    "category2": "STG CENTRO MTY",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. Presidente Benito Juarez 351, 369 y 399",
+      "address2": "Monterrey Centro",
+      "address3": "Monterrey",
+      "city": "Nuevo Leon",
+      "state": "NLE",
+      "postalCode": "64000"
+    }
+  },
+  {
+    "id": "store-3405",
+    "storeNo": "3405",
+    "code": "Mty-Citadel",
+    "orderType": "TDFOR",
+    "category2": "STG CITADEL",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. Romulo Garza 410 Big Box 4",
+      "address2": "La Fe",
+      "address3": "San Nicolas de los Garza",
+      "city": "Nuevo Leon",
+      "state": "NLE",
+      "postalCode": "66477"
+    }
+  },
+  {
+    "id": "store-3406",
+    "storeNo": "3406",
+    "code": "Mty-GarzaSada",
+    "orderType": "TDFOR",
+    "category2": "STG GARZA SADA",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. Eugenio Garza Sada Lote 60 Mz 234",
+      "address2": "Contry",
+      "address3": "Monterrey",
+      "city": "Nuevo Leon",
+      "state": "NLE",
+      "postalCode": "64860"
+    }
+  },
+  {
+    "id": "store-362",
+    "storeNo": "362",
+    "code": "Mty-SanJeronimo",
+    "orderType": "TDFOR",
+    "category2": "STG SAN JERONIMO",
+    "category10": "105",
+    "shipTo": {
+      "address1": "Av. San Jeronimo 938 y 940",
+      "address2": "San Jeronimo, Monterrey",
+      "address3": "Monterrey",
+      "city": "Nuevo Leon",
+      "state": "NLE",
+      "postalCode": "64640"
+    }
+  },
+  {
+    "id": "store-9953",
+    "storeNo": "9953",
+    "code": "Pue-Angelopolis",
+    "orderType": "TDFOR",
+    "category2": "STG ANGELOPOLIS",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Atlixcayotl 5310",
+      "address2": "Reserva Territorial Atlixcayotl",
+      "address3": "San Andres Cholula",
+      "city": "Puebla",
+      "state": "PUE",
+      "postalCode": "72820"
+    }
+  },
+  {
+    "id": "store-3403",
+    "storeNo": "3403",
+    "code": "Pue-Puebla",
+    "orderType": "TDFOR",
+    "category2": "STG PUEBLA",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Calle 2 Poniente 509",
+      "address2": "Centro",
+      "address3": "Puebla",
+      "city": "Puebla",
+      "state": "PUE",
+      "postalCode": "72000"
+    }
+  },
+  {
+    "id": "store-4798",
+    "storeNo": "4798",
+    "code": "Que-Arboledas",
+    "orderType": "TDFOR",
+    "category2": "STG ARBOLEDAS",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Av. Bernardo Quintana Arrioja 540",
+      "address2": "Arboledas",
+      "address3": "Queretaro",
+      "city": "Queretaro",
+      "state": "QUE",
+      "postalCode": "76140"
+    }
+  },
+  {
+    "id": "store-3402",
+    "storeNo": "3402",
+    "code": "Que-Queretaro",
+    "orderType": "TDFOR",
+    "category2": "STG QUERETARO",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Calle Juarez Norte 53, 55 y 57",
+      "address2": "Centro",
+      "address3": "Queretaro",
+      "city": "Queretaro",
+      "state": "QUE",
+      "postalCode": "76000"
+    }
+  },
+  {
+    "id": "store-4570",
+    "storeNo": "4570",
+    "code": "Roo-Cancun",
+    "orderType": "TDFOR",
+    "category2": "STG CANCUN",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Av. Tulum SM 15A, MZA 02 Lote 01",
+      "address2": "Cancun Centro",
+      "address3": "Benito Juarez",
+      "city": "Quintana Roo",
+      "state": "ROO",
+      "postalCode": "77500"
+    }
+  },
+  {
+    "id": "store-4755",
+    "storeNo": "4755",
+    "code": "Sin-Culiacan",
+    "orderType": "TDFOR",
+    "category2": "STG CULIACAN",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Av. Alvaro Obregon 419",
+      "address2": "Centro",
+      "address3": "Culiacan",
+      "city": "Sinaloa",
+      "state": "SIN",
+      "postalCode": "80000"
+    }
+  },
+  {
+    "id": "store-3408",
+    "storeNo": "3408",
+    "code": "SLP-SanLuis",
+    "orderType": "TDFOR",
+    "category2": "STG SLP",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Av. Zaragoza e Iturbide 165",
+      "address2": "San Luis Potosi Centro",
+      "address3": "San Luis Potosi",
+      "city": "San Luis Potosi",
+      "state": "SLP",
+      "postalCode": "78000"
+    }
+  },
+  {
+    "id": "store-4574",
+    "storeNo": "4574",
+    "code": "Son-Hermosillo",
+    "orderType": "TDFOR",
+    "category2": "STG HERMOSILLO",
+    "category10": "104",
+    "shipTo": {
+      "address1": "Av. Aquiles Serdan y C. Garmendia 112 Suite 1",
+      "address2": "Hermosillo Centro",
+      "address3": "Hermosillo",
+      "city": "Sonora",
+      "state": "SON",
+      "postalCode": "83000"
+    }
+  },
+  {
+    "id": "store-9955",
+    "storeNo": "9955",
+    "code": "Tab-Villahermosa",
+    "orderType": "TDFOR",
+    "category2": "STG VHERMOSA",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Boulevard Adolfo Ruiz Cortines 801-A",
+      "address2": "Centro Delegacion Seis",
+      "address3": "Villahermosa",
+      "city": "Villahermosa",
+      "state": "TAB",
+      "postalCode": "86000"
+    }
+  },
+  {
+    "id": "store-3407",
+    "storeNo": "3407",
+    "code": "Tol-Centro",
+    "orderType": "TDMX",
+    "category2": "STG TOLUCA",
+    "category10": "101",
+    "shipTo": {
+      "address1": "Calle Ignacio Allende Sur 101",
+      "address2": "Centro",
+      "address3": "Toluca",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "50000"
+    }
+  },
+  {
+    "id": "store-3409",
+    "storeNo": "3409",
+    "code": "Tol-Metepec",
+    "orderType": "TDMX",
+    "category2": "STG METEPEC",
+    "category10": "102",
+    "shipTo": {
+      "address1": "Blvd. Toluca Metepec 201",
+      "address2": "La Michoacana",
+      "address3": "Metepec",
+      "city": "Estado de Mexico",
+      "state": "MX",
+      "postalCode": "52166"
+    }
+  },
+  {
+    "id": "store-4573",
+    "storeNo": "4573",
+    "code": "Ver-Veracruz",
+    "orderType": "TDFOR",
+    "category2": "STG VER",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Blvd. Ruiz Cortines 3403 Local A",
+      "address2": "Las Americas",
+      "address3": "Boca del Rio",
+      "city": "Veracruz",
+      "state": "VER",
+      "postalCode": "94298"
+    }
+  },
+  {
+    "id": "store-4346",
+    "storeNo": "4346",
+    "code": "Yuc-Campestre",
+    "orderType": "TDFOR",
+    "category2": "STG CAMPRESTRE",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Calle 1-C Num 250 X 36 Y 38 y 254 X 36 Y 38",
+      "address2": "Campestre",
+      "address3": "Merida",
+      "city": "Yucatan",
+      "state": "YUC",
+      "postalCode": "97120"
+    }
+  },
+  {
+    "id": "store-364",
+    "storeNo": "364",
+    "code": "Yuc-Merida",
+    "orderType": "TDFOR",
+    "category2": "STG MERIDA",
+    "category10": "103",
+    "shipTo": {
+      "address1": "Calle 58 Num 488",
+      "address2": "Merida Centro",
+      "address3": "Merida",
+      "city": "Yucatan",
+      "state": "YUC",
+      "postalCode": "97000"
+    }
+  }
+]
